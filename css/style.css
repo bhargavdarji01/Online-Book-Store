@@ -1,0 +1,16 @@
+.wrapper{ width:800px; margin:0 auto;}
+.user{ margin: 0 15px 0 0;}
+.submit{ margin: 0 0 0 30px;}
+.login_form{ display: inline; padding: 0 37px 0 0;}
+.reg_fnt{ font-weight: bold; font-size: 32px;}
+.logout{ float: right;}
+.welcome { font-size: 18px; font-weight: bold;}
+.product_container{border-bottom: 1px solid #000000; clear:both; margin: 0 0 47px; height: 198px;}
+.prod_img{float: left;height: 160px;width: 160px;}
+.clear{ clear:both; }
+.error p{ color:red;}
+.listing {padding: 66px 0 0;}
+#cart_title{ font-size: 20px; font-weight: bold;}
+#cart_container{border: 2px solid; padding: 10px 0 10px 10px; }
+.quantity_input{ width: 35px;}
+.price { margin: 20px 0 0;}
